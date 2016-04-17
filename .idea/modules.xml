@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EnumRadioGroup.iml" filepath="$PROJECT_DIR$/EnumRadioGroup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enumradiogroupdemo/enumradiogroupdemo.iml" filepath="$PROJECT_DIR$/enumradiogroupdemo/enumradiogroupdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enumradiogrouplibrary/enumradiogrouplibrary.iml" filepath="$PROJECT_DIR$/enumradiogrouplibrary/enumradiogrouplibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enumradiogrouptest/enumradiogrouptest.iml" filepath="$PROJECT_DIR$/enumradiogrouptest/enumradiogrouptest.iml" />
+    </modules>
+  </component>
+</project>
